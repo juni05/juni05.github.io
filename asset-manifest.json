@@ -1,36 +1,30 @@
 {
   "files": {
     "main.css": "/static/css/main.70fe82fe.chunk.css",
-    "main.js": "/static/js/main.270cbdd6.chunk.js",
-    "main.js.map": "/static/js/main.270cbdd6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9eb34cb0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9eb34cb0.js.map",
+    "main.js": "/static/js/main.802150cb.chunk.js",
+    "main.js.map": "/static/js/main.802150cb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.86bd5141.js",
+    "runtime-main.js.map": "/static/js/runtime-main.86bd5141.js.map",
     "static/css/2.b51bb788.chunk.css": "/static/css/2.b51bb788.chunk.css",
-    "static/js/2.619eea3a.chunk.js": "/static/js/2.619eea3a.chunk.js",
-    "static/js/2.619eea3a.chunk.js.map": "/static/js/2.619eea3a.chunk.js.map",
-    "static/js/3.112650d9.chunk.js": "/static/js/3.112650d9.chunk.js",
-    "static/js/3.112650d9.chunk.js.map": "/static/js/3.112650d9.chunk.js.map",
+    "static/js/2.5d01e304.chunk.js": "/static/js/2.5d01e304.chunk.js",
+    "static/js/2.5d01e304.chunk.js.map": "/static/js/2.5d01e304.chunk.js.map",
+    "static/js/3.4bf9d5f5.chunk.js": "/static/js/3.4bf9d5f5.chunk.js",
+    "static/js/3.4bf9d5f5.chunk.js.map": "/static/js/3.4bf9d5f5.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.b51bb788.chunk.css.map": "/static/css/2.b51bb788.chunk.css.map",
     "static/css/main.70fe82fe.chunk.css.map": "/static/css/main.70fe82fe.chunk.css.map",
-    "static/js/2.619eea3a.chunk.js.LICENSE.txt": "/static/js/2.619eea3a.chunk.js.LICENSE.txt",
+    "static/js/2.5d01e304.chunk.js.LICENSE.txt": "/static/js/2.5d01e304.chunk.js.LICENSE.txt",
     "static/media/Junaid-Resume.f268a3e8.pdf": "/static/media/Junaid-Resume.f268a3e8.pdf",
     "static/media/about.aee0f771.png": "/static/media/about.aee0f771.png",
-    "static/media/blog.52102140.png": "/static/media/blog.52102140.png",
-    "static/media/chatify.9373edda.png": "/static/media/chatify.9373edda.png",
-    "static/media/codeEditor.ba945879.png": "/static/media/codeEditor.ba945879.png",
-    "static/media/emotion.e92e314a.jpeg": "/static/media/emotion.e92e314a.jpeg",
     "static/media/style.css": "/static/media/pre.d4812f51.svg",
     "static/media/home-main.541f8179.svg": "/static/media/home-main.541f8179.svg",
-    "static/media/junaid1.65f2c3b7.png": "/static/media/junaid1.65f2c3b7.png",
-    "static/media/leaf.4c15d6eb.png": "/static/media/leaf.4c15d6eb.png",
-    "static/media/suicide.b72f1f9f.png": "/static/media/suicide.b72f1f9f.png"
+    "static/media/junaid.83265708.png": "/static/media/junaid.83265708.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9eb34cb0.js",
+    "static/js/runtime-main.86bd5141.js",
     "static/css/2.b51bb788.chunk.css",
-    "static/js/2.619eea3a.chunk.js",
+    "static/js/2.5d01e304.chunk.js",
     "static/css/main.70fe82fe.chunk.css",
-    "static/js/main.270cbdd6.chunk.js"
+    "static/js/main.802150cb.chunk.js"
   ]
 }
